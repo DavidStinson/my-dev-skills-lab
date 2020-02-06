@@ -14,12 +14,8 @@ h1 {
 section {
   padding: 20px;
 }
-section button{
-  display: inline;
-  height: 20px
-}
 
-section button{
+td button{
   width: 40px;
   height: 40px;
   background-color: darkred;
@@ -29,11 +25,8 @@ section button{
   display: inline;
   margin: 5px
 }
-section p{
-  position: relative;
-  float: right;
-  clear: both;
-  margin: 12px 0;
+
+td{
   font-size: 25px;
   font-family: sans-serif;
 }
